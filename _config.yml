@@ -9,7 +9,7 @@ url: https://RyanJ119.github.io
 
 # Owner/author information
 owner:
-  name:           
+  name:           Ryan Weightman  
   avatar:        
   bio:            
   email:   ryanj.weightman@gmail.com      
@@ -36,7 +36,7 @@ plugins:
   - jekyll-sitemap
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/Chicago
+timezone:    EST
 future:      false  # publish future dated posts --  true, false (default) 
 highlighter: rouge
 markdown:    kramdown
