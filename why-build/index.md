@@ -26,8 +26,8 @@ Here are some instructions for adapting this site as your own (possibly with Git
 6. Read the documentation below for further customization pointers and documentation.
 
 <div markdown="0"><a href="https://github.com/mmistakes/hpstr-jekyll-theme/archive/master.zip" class="btn">Download HPSTR Theme</a></div>
-<div markdown="0"><a href="https://github.com/barbourww.github.io/archive/master.zip" class="btn">Download My Site</a></div>
-
+<div markdown="0"><a href="https://github.com/barbourww.github.io/archive/master.zip" class="btn">Download Will's Site</a></div>
+<div markdown="0"><a href="https://https://github.com/RyanJ119.github.io/archive/master.zip" class="btn">Download My Site</a></div>
 ---
 
 ## Important First Customizations
