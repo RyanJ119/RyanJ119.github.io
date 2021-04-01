@@ -8,18 +8,18 @@ share: true
 modified: 2018-02-02T15:14:43-04:00
 ---
 
-I decided to build my own website partly for the learning experience and partly because I'm cheap and didn't want to pay $5/month for a service (ask me how that decision is going now that I've spent tens of hours fussing with styles, scaling, and portability issues). Since I'm a graduate student, I probably shouldn't have spent so much time on this side project; but maybe now that I did, someone else can benefit from that time investment and the knowledge I've gained in the process.
+I decided to build my own website as a test to play with while building my labs website. This website template was given to me by William Barbour who put much more time into design and layout than I, and for that I thank him! 
 
 The template for this site, `hpstr-jekyll-theme` came from [Michael Rose](https://mademistakes.com), available on [his Github](https://github.com/mmistakes/hpstr-jekyll-theme)
 
-Please feel free to clone or download these website materials and adapt as you see fit. Make sure to give credit where credit is due, particularly the original template. My only significant modification was to the homepage, where I defined a secondary header style and added it after the primary header. I did so because I wanted a bit more of a personal hook on the homepage so that visitors could learn at least one sentence about me without having to navigate any further. The rest of the modifications were for content - I added more page links to the menu bar to make the site a bit less focused on the blog content. In the future, I'd like to entirely rework the homepage and make the blog far less of a centerpiece.
+Please feel free to clone or download these website materials and adapt as you see fit. Make sure to give credit where credit is due, particularly the original template. Any modifications I have made are minor readability modifictions.
 
 Here are some instructions for adapting this site as your own (possibly with Github Pages). Following that are some additional instructions and code snippets related to the modifications and additions that are possible.
 
 ## Basic Setup for a new Jekyll site
 
 1. Depending on your hosting process and plans to modify the site, you might want to install Ruby and Jekyll on your local machine. I did not elect to do so, since most of my content modifications could be done in a text editor and pushed to Github. To set up locally, [install Bundler](http://bundler.io) using `gem install bundler` and then install [Jekyll](http://jekyllrb.com) and all dependencies using `bundle install`.
-2. Clone or download either the original [HPSTR Jekyll Theme repo](https://github.com/mmistakes/hpstr-jekyll-theme/) or [my modification](https://github.com/barbourww/barbourww.github.io/) of it and rename the site.
+2. Clone or download either the original [HPSTR Jekyll Theme repo](https://github.com/mmistakes/hpstr-jekyll-theme/) or [William's modification](https://github.com/barbourww/barbourww.github.io/) or my modification (https://github.com/RyanJ119/RyanJ119.github.io)of it and rename the site.
 3. If you are planning to host the site via Github Pages, make sure to name your repository `*your_github_name*.github.io` and set up the hosting process in the repository settings. Check out [Github Pages](https://pages.github.com) for more information and setup guides.
 4. See the next section for the first edits you should make, primarily by editing `_config.yml` to personalize your site. 
 5. Check out the sample/existing blog posts in `_posts` to see examples for pulling in large feature images, assigning categories and tags, and other YAML data, which can easily be repurposed for your own use.
