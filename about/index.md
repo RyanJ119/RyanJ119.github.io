@@ -24,7 +24,7 @@ modified: 2018-01-27
 	<a href="{{ site.url }}/images/jacksonville_big.jpg"><img src="{{ site.url }}/images/RyanAndRachel.JPG" alt=""></a>
 </figure>
 
-I enjoy hanging out with all of my dog friends, reading, and selling vegetables! 
+My happy places are hanging out with all of my dog friends (and Rachel), reading, and selling vegetables! 
 
 <figure class="half">
 	<a href="{{ site.url }}/images/mikey_hike.jpg"><img src="{{ site.url }}/images/mikey_hike.jpg" alt=""></a>
