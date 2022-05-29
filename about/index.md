@@ -16,7 +16,7 @@ modified: 2018-01-27
 	
 	
 <figure>
-	<a href="{{ site.url }}/images/Taco.JPG"><img src="{{ site.url }}/images/RyanAndRachel.JPG" alt=""></a>
+	<a href="{{ site.url }}/images/Taco.JPG"><img src="{{ site.url }}/images/Taco.JPG" alt=""></a>
 </figure>
 
 <figure class="half">
