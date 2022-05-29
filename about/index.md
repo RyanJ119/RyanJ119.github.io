@@ -28,7 +28,7 @@ modified: 2018-01-27
 	<a href="{{ site.url }}/images/RyanAndRachel.JPG"><img src="{{ site.url }}/images/RyanAndRachel.JPG" alt=""></a>
 </figure>
 
-My happy places are hanging out with all of my dog friends (and Rachel), reading, and selling vegetables! 
+You will most likely find me hanging out with all of my dog friends (and Rachel), reading, or selling vegetables! 
 
 <figure class="half">
 	<a href="{{ site.url }}/images/Scooby.JPG"><img src="{{ site.url }}/images/Scooby.JPG" alt=""></a>
