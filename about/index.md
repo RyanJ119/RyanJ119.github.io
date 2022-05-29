@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ryan
+title: About Me!
 image:
   feature: OceanCityPic.JPG
 comments: false
