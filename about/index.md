@@ -14,9 +14,7 @@ modified: 2018-01-27
 
 <div markdown="0"><a href="{{ site.url }}/PDF/Ryan WeightmanCV.pdf" class="btn btn-info">Curriculum Vitae</a> </div>
 	
-<figure>
-	<a href="{{ site.url }}/images/BonnieUgly.jpg"><img src="{{ site.url }}/images/BonnieUgly.jpg" alt=""></a>
-</figure>	
+	
 <figure>
 	<a href="{{ site.url }}/images/Taco.JPG"><img src="{{ site.url }}/images/Taco.JPG" alt=""></a>
 </figure>
