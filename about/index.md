@@ -16,12 +16,12 @@ modified: 2018-01-27
 	
 
 <figure class="half">
-	<a href="{{ site.url }}/images/rushmore.jpg"><img src="{{ site.url }}/images/rushmore.jpg" alt=""></a>
-	<a href="{{ site.url }}/images/heidelberg_big.jpg"><img src="{{ site.url }}/images/heidelberg.jpg" alt=""></a>
+	<a href="{{ site.url }}/images/rushmore.jpg"><img src="{{ site.url }}/images/RyanAndRachel.JPG" alt=""></a>
+	<a href="{{ site.url }}/images/heidelberg_big.jpg"><img src="{{ site.url }}/images/RyanAndWinston.JPG" alt=""></a>
 </figure>
 
 <figure>
-	<a href="{{ site.url }}/images/jacksonville_big.jpg"><img src="{{ site.url }}/images/jacksonville.jpg" alt=""></a>
+	<a href="{{ site.url }}/images/jacksonville_big.jpg"><img src="{{ site.url }}/images/RyanAndRachel.JPG" alt=""></a>
 </figure>
 
 In my free time I enjoy woodworking, building custom electronics, backpacking, biking, and beer tasting. See my [blog posts]({{ site.url }}/chronposts/) for some of my personal projects. I have a hound dog who goes by Mikey; coincidentally, he also enjoys hiking and biking with me.
