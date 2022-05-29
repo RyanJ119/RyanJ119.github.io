@@ -36,5 +36,5 @@ You will most likely find me hanging out with all of my dog friends (and Rachel)
 </figure>
 
 <figure>
-	<a href="{{ site.url }}/images/RyanAndRachel.JPG"><img src="{{ site.url }}/images/FarmMarket.JPG" alt=""></a>
+	<a href="{{ site.url }}/images/FarmMarket.JPG"><img src="{{ site.url }}/images/FarmMarket.JPG" alt=""></a>
 </figure>
