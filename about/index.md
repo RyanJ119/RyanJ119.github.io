@@ -32,6 +32,9 @@ You will most likely find me hanging out with all of my dog friends (and Rachel)
 
 <figure class="half">
 	<a href="{{ site.url }}/images/Scooby.JPG"><img src="{{ site.url }}/images/Scooby.JPG" alt=""></a>
-	<a href="{{ site.url }}/images/FarmMarket.JPG"><img src="{{ site.url }}/images/FarmMarket.JPG" alt=""></a>
+	<a href="{{ site.url }}/images/FarmMarket.JPG"><img src="{{ site.url }}/images/Chase.jpeg" alt=""></a>
 </figure>
 
+<figure>
+	<a href="{{ site.url }}/images/RyanAndRachel.JPG"><img src="{{ site.url }}/images/FarmMarket.JPG" alt=""></a>
+</figure>
