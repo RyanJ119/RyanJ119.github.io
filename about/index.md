@@ -14,6 +14,10 @@ modified: 2018-01-27
 
 <div markdown="0"><a href="{{ site.url }}/PDF/Ryan WeightmanCV.pdf" class="btn btn-info">Curriculum Vitae</a> </div>
 	
+	
+<figure>
+	<a href="{{ site.url }}/images/Taco.JPG"><img src="{{ site.url }}/images/Taco.JPG" alt=""></a>
+</figure>
 
 <figure class="half">
 	<a href="{{ site.url }}/images/Dixon.JPG"><img src="{{ site.url }}/images/Dixon.JPG" alt=""></a>
@@ -24,7 +28,7 @@ modified: 2018-01-27
 	<a href="{{ site.url }}/images/RyanAndRachel.JPG"><img src="{{ site.url }}/images/RyanAndRachel.JPG" alt=""></a>
 </figure>
 
-My happy places are hanging out with all of my dog friends (and Rachel), reading, and selling vegetables! 
+You will most likely find me hanging out with all of my dog friends (and Rachel), reading, or selling vegetables! 
 
 <figure class="half">
 	<a href="{{ site.url }}/images/Scooby.JPG"><img src="{{ site.url }}/images/Scooby.JPG" alt=""></a>
