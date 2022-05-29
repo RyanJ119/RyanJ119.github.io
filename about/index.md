@@ -24,7 +24,7 @@ modified: 2018-01-27
 	<a href="{{ site.url }}/images/jacksonville_big.jpg"><img src="{{ site.url }}/images/RyanAndRachel.JPG" alt=""></a>
 </figure>
 
-In my free time I enjoy woodworking, building custom electronics, backpacking, biking, and beer tasting. See my [blog posts]({{ site.url }}/chronposts/) for some of my personal projects. I have a hound dog who goes by Mikey; coincidentally, he also enjoys hiking and biking with me.
+My happy places are hanging out with all of my dog friends (and Rachel), reading, and selling vegetables! 
 
 <figure class="half">
 	<a href="{{ site.url }}/images/mikey_hike.jpg"><img src="{{ site.url }}/images/mikey_hike.jpg" alt=""></a>
