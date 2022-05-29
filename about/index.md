@@ -2,7 +2,7 @@
 layout: page
 title: Ryan
 image:
-  feature: kandersteg2.jpg
+  feature: OceanCityPic.JPG
 comments: false
 modified: 2018-01-27
 ---
@@ -16,7 +16,7 @@ modified: 2018-01-27
 	
 
 <figure class="half">
-	<a href="{{ site.url }}/images/rushmore.jpg"><img src="{{ site.url }}/images/RyanAndRachel.JPG" alt=""></a>
+	<a href="{{ site.url }}/images/rushmore.jpg"><img src="{{ site.url }}/images/Dixon.JPG" alt=""></a>
 	<a href="{{ site.url }}/images/heidelberg_big.jpg"><img src="{{ site.url }}/images/RyanAndWinston.JPG" alt=""></a>
 </figure>
 
@@ -27,7 +27,7 @@ modified: 2018-01-27
 My happy places are hanging out with all of my dog friends (and Rachel), reading, and selling vegetables! 
 
 <figure class="half">
-	<a href="{{ site.url }}/images/mikey_hike.jpg"><img src="{{ site.url }}/images/mikey_hike.jpg" alt=""></a>
-	<a href="{{ site.url }}/images/mikey_bike.jpg"><img src="{{ site.url }}/images/mikey_bike.jpg" alt=""></a>
+	<a href="{{ site.url }}/images/mikey_hike.jpg"><img src="{{ site.url }}/images/Scooby.JPG" alt=""></a>
+	<a href="{{ site.url }}/images/mikey_bike.jpg"><img src="{{ site.url }}/images/FarmMarket.JPG" alt=""></a>
 </figure>
 
