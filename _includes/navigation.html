@@ -1,4 +1,6 @@
-<nav id="menu" class="dmenu" role="navigation">
+<nav id="menu" class="menuwrapper" role="navigation">
+	
+	<ul class="menu">
 		<li><a href="{{ site.url }}/">Home</a></li>
 		<li>
 			<a href="#">Info</a>
@@ -59,6 +61,5 @@
 	    {% endif %}
 	    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
 	  {% endfor %}
-
+	</ul><!-- /.dl-menu -->
 </nav><!-- /.dl-menuwrapper -->
-
