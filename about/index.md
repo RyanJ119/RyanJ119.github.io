@@ -12,7 +12,7 @@ modified: 2018-01-27
 
 <a href="mailto:{{ site.owner.email | encode_email }}" title="Email me">Email me</a> to get in touch, or see additional contact information on my r&eacute;sum&eacute; and CV.
 
-<div markdown="0"><a href="{{ site.url }}/PDF/Ryan Weightman CV Jan 2024.pdf" class="btn btn-info">Curriculum Vitae</a> </div>
+<div markdown="0"><a href="{{ site.url }}/PDF/Ryan Weightman CV July 2025.pdf" class="btn btn-info">Curriculum Vitae</a> </div>
 	
 	
 <figure>
